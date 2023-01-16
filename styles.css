@@ -125,3 +125,29 @@ h2 {
     text-align: center;
     font-size: 18px;
 }
+
+.Sec3 {
+    background-color: #E5E7EB;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+.Author {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.Author-div {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+}
